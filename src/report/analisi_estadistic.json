@@ -1,0 +1,79 @@
+{
+    "metadata": {
+        "current_date": "2026-01-13",
+        "num_records": 1081,
+        "time_period": [
+            "19-20",
+            "20-21",
+            "21-22",
+            "22-23"
+        ]
+    },
+    "global_statistics": {
+        "dropout_mean": 0.1,
+        "performance_mean": 0.88,
+        "dropout_performance_correlation": -0.44
+    },
+    "analysis_by_branch": {
+        "Ciències de la salut": {
+            "dropout_mean": 0.07,
+            "dropout_std": 0.09,
+            "dropout_min": 0.0,
+            "dropout_max": 1.0,
+            "performance_mean": 0.91,
+            "performance_std": 0.07,
+            "performance_min": 0.61,
+            "performance_max": 1.0,
+            "dropout_trend": "decreasing",
+            "performance_trend": "stable"
+        },
+        "Ciències socials i jurídiques": {
+            "dropout_mean": 0.09,
+            "dropout_std": 0.07,
+            "dropout_min": 0.0,
+            "dropout_max": 0.54,
+            "performance_mean": 0.9,
+            "performance_std": 0.07,
+            "performance_min": 0.59,
+            "performance_max": 1.0,
+            "dropout_trend": "stable",
+            "performance_trend": "stable"
+        },
+        "Arts i humanitats": {
+            "dropout_mean": 0.14,
+            "dropout_std": 0.12,
+            "dropout_min": 0.0,
+            "dropout_max": 1.0,
+            "performance_mean": 0.85,
+            "performance_std": 0.1,
+            "performance_min": 0.38,
+            "performance_max": 1.0,
+            "dropout_trend": "stable",
+            "performance_trend": "decreasing"
+        },
+        "Enginyeria i arquitectura": {
+            "dropout_mean": 0.1,
+            "dropout_std": 0.07,
+            "dropout_min": 0.0,
+            "dropout_max": 0.41,
+            "performance_mean": 0.84,
+            "performance_std": 0.08,
+            "performance_min": 0.64,
+            "performance_max": 1.0,
+            "dropout_trend": "stable",
+            "performance_trend": "stable"
+        },
+        "Ciències": {
+            "dropout_mean": 0.07,
+            "dropout_std": 0.07,
+            "dropout_min": 0.0,
+            "dropout_max": 0.5,
+            "performance_mean": 0.9,
+            "performance_std": 0.08,
+            "performance_min": 0.51,
+            "performance_max": 1.0,
+            "dropout_trend": "stable",
+            "performance_trend": "stable"
+        }
+    }
+}
